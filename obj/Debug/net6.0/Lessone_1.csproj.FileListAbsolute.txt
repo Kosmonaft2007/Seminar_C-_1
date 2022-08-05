@@ -1,0 +1,15 @@
+/Users/vadimporohov/Desktop/VS  Code/GeekBrains/Seminar_C#_1/Lessone_1/bin/Debug/net6.0/Lessone_1
+/Users/vadimporohov/Desktop/VS  Code/GeekBrains/Seminar_C#_1/Lessone_1/bin/Debug/net6.0/Lessone_1.deps.json
+/Users/vadimporohov/Desktop/VS  Code/GeekBrains/Seminar_C#_1/Lessone_1/bin/Debug/net6.0/Lessone_1.runtimeconfig.json
+/Users/vadimporohov/Desktop/VS  Code/GeekBrains/Seminar_C#_1/Lessone_1/bin/Debug/net6.0/Lessone_1.dll
+/Users/vadimporohov/Desktop/VS  Code/GeekBrains/Seminar_C#_1/Lessone_1/bin/Debug/net6.0/Lessone_1.pdb
+/Users/vadimporohov/Desktop/VS  Code/GeekBrains/Seminar_C#_1/Lessone_1/obj/Debug/net6.0/Lessone_1.csproj.AssemblyReference.cache
+/Users/vadimporohov/Desktop/VS  Code/GeekBrains/Seminar_C#_1/Lessone_1/obj/Debug/net6.0/Lessone_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimporohov/Desktop/VS  Code/GeekBrains/Seminar_C#_1/Lessone_1/obj/Debug/net6.0/Lessone_1.AssemblyInfoInputs.cache
+/Users/vadimporohov/Desktop/VS  Code/GeekBrains/Seminar_C#_1/Lessone_1/obj/Debug/net6.0/Lessone_1.AssemblyInfo.cs
+/Users/vadimporohov/Desktop/VS  Code/GeekBrains/Seminar_C#_1/Lessone_1/obj/Debug/net6.0/Lessone_1.csproj.CoreCompileInputs.cache
+/Users/vadimporohov/Desktop/VS  Code/GeekBrains/Seminar_C#_1/Lessone_1/obj/Debug/net6.0/Lessone_1.dll
+/Users/vadimporohov/Desktop/VS  Code/GeekBrains/Seminar_C#_1/Lessone_1/obj/Debug/net6.0/refint/Lessone_1.dll
+/Users/vadimporohov/Desktop/VS  Code/GeekBrains/Seminar_C#_1/Lessone_1/obj/Debug/net6.0/Lessone_1.pdb
+/Users/vadimporohov/Desktop/VS  Code/GeekBrains/Seminar_C#_1/Lessone_1/obj/Debug/net6.0/Lessone_1.genruntimeconfig.cache
+/Users/vadimporohov/Desktop/VS  Code/GeekBrains/Seminar_C#_1/Lessone_1/obj/Debug/net6.0/ref/Lessone_1.dll
